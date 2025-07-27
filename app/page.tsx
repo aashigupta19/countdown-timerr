@@ -59,7 +59,7 @@ export default function Home() {
           {/* <Lottie animationData={heroAnim} className="w-48 sm:w-64 mb-4" /> */}
           <div className="bg-white/10 backdrop-blur-lg p-8 rounded-2xl border border-white/20 shadow-lg">
             <h1 className="text-3xl sm:text-4xl font-bold mb-2">
-              Countdown to Pursharth's Arrival ✨
+              Countdown to Pursharth&apos;s Arrival ✨
             </h1>
             <br />
             <p className="text-4xl font-mono text-yellow-400">
